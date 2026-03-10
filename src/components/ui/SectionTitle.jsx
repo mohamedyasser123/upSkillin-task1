@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const DECORATIONS = [
     { id: 'tl', position: '-top-2 left-2 rotate-135' },

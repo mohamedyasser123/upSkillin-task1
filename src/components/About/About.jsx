@@ -1,4 +1,3 @@
-import React from 'react';
 import Button from '../ui/Button';
 import aboutImage from "../../assets/about.jpg";
 import about1Image from "../../assets/about1.png";

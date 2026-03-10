@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import SectionTitle from '../ui/SectionTitle';
 import Button from '../ui/Button';
 import { submitContactRequest } from '../../api/contact';

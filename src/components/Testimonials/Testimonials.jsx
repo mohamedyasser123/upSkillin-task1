@@ -1,4 +1,3 @@
-import React from 'react';
 import SectionTitle from '../ui/SectionTitle';
 import testImage from '../../assets/test1.png';
 

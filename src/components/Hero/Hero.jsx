@@ -1,4 +1,3 @@
-import React from 'react';
 import Button from '../ui/Button';
 import heroImg from '../../assets/hero.jpg';
 import logoImg from '../../assets/logo.svg';
